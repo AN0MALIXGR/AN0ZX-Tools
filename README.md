@@ -3,7 +3,7 @@
 
 installer by TERMUX
 
-$. git clone https://github.com/AN0MALIXGR/Tools-AN0ZX.git
+$. git clone https://github.com/AN0MALIXGR/AN0ZX-Tools.git
 
 $. cd AN0ZX-Tools
 
